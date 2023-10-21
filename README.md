@@ -24,7 +24,7 @@
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web and mobile applications.
+- :telescope: I’m working as a Software Engineer building web and mobile applications.
 
 - :seedling: Heavy consumer of tech content.
 
